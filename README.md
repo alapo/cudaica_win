@@ -10,7 +10,7 @@ The source code is adapted from <https://github.com/fraimondo/cudaica> to build 
 
 1. NVIDIA GPU with enough GPU Memory (> 4GB recommend, depend on your data size).
 
-2. NVIDIA CUDA
+2. NVIDIA [CUDA](https://developer.nvidia.com/cuda-downloads)
 
 3. Intel MKL in Intel Parallel Studio XE
 
